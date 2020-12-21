@@ -8,5 +8,5 @@ npm install
 nodemon ./bin/www
 
 # Node REST APIs mentioned in following dir:
-/twitter --> /controllers/login.js
+/twitter --> /controllers/login.js  <br/>
 /tweet   --> /controllers/tweet.js
